@@ -1,10 +1,10 @@
 import React from "react"
 
-function Hello() {
+function ErrorBoundary() {
   return (
     <div>
       
     </div>
   )
 }
-export default Hello
+export default ErrorBoundary
